@@ -1,1 +1,1 @@
-# java-ws
+# java-ws-client
